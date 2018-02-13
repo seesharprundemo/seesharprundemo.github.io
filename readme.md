@@ -1,4 +1,4 @@
-# Hello World
+# Lab Instructions
 
 ## Section A
 
